@@ -3,6 +3,7 @@ CentOS 7 offline installer
 git clone the repo and cd to this directory.
 
 sh install.sh <SFX_API_TOKEN> --local-resources <FULL_PATH_TO_THIS_DIR>
+
 FULL_PATH_TO_THIS_DIR has no trailing /
 e.g. /home/ec2user/centos7
 
